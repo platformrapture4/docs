@@ -6,7 +6,7 @@ Por ejemplo, un flujo de trabajo con el siguiente valor de `on` se ejecutará cu
 on: push
 ```
 
-### Utilizar eventos múltiples
+### Using multiple events
 
 Puedes especificar eventos sencillos o múltiples. Por ejemplo, un flujo de trabajo con el siguiente valor de `on` se ejecutará cuando se haga una subida a cualquier rama del repositorio o cuando alguien lo bifurque:
 

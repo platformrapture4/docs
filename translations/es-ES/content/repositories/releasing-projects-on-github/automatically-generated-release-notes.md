@@ -5,8 +5,6 @@ permissions: Repository collaborators and people with write access to a reposito
 versions:
   fpt: '*'
   ghec: '*'
-  ghes: '>3.3'
-  ghae: issue-4974
 topics:
   - Repositories
 shortTitle: Notas de lanzamiento automatizadas
